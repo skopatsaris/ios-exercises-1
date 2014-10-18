@@ -37,8 +37,8 @@
     NSUInteger cost = 24;
     
     if (self.getsDiscount) {
-        cost *= .75;
-    }
+         *= .75;
+    } c
     
     return cost;
 }
