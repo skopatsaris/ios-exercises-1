@@ -14,7 +14,7 @@
 		<string>https://github.com/skopatsaris/ios-exercises-1.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>BlocExercises/BlocExercises.xcodeproj/project.xcworkspace</string>
+	<string>BlocExercises/BlocExercises.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>5450119CCA2DD394E9078F73A3071326A1F877FC</key>

@@ -32,15 +32,17 @@
     return itemToReturn;
 }
 
+/*
+
 - (NSUInteger) dollarCostForAppleFlavoredVodka {
     
     NSUInteger cost = 24;
     
-    if (self.getsDiscount) {
+    /*if (self.getsDiscount) {
          *= .75;
     } c
-    
+
     return cost;
 }
-
+/*
 @end
